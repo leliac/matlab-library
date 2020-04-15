@@ -1,2 +1,2 @@
-# matlab-library
-MATLAB library
+# matlab-simulink-library
+MATLAB and Simulink library
